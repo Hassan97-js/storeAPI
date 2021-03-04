@@ -1,0 +1,4 @@
+# a path:
+http://localhost:8080/
+  # headers for that path:
+  Access-Control-Allow-Origin: http://localhost:8080/
